@@ -1,6 +1,6 @@
 #Manejo de cadenas
-miGrupoFavorito = "The Doors"
-caracteristicas = "The best Rock Band"
+miGrupoFavorito = "marron five"
+caracteristicas = "The best Band"
 print("Mi banda favorita es: ", miGrupoFavorito,caracteristicas)
 
 numero1 = "7"
